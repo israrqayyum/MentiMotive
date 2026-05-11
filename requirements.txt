@@ -1,0 +1,47 @@
+# Core Framework
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
+
+# ML/AI Models
+transformers
+optimum[onnxruntime]
+faster-whisper
+numpy
+scipy
+soundfile
+huggingface_hub
+
+# LangChain & RAG
+langchain
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+langchain-openai
+langchain-community
+chromadb
+
+# Document Processing
+pypdf
+
+# Utilities
+aiofiles
+librosa
+
+#tts
+edge-tts
+tiny-tts
+nltk
+
+# Database & Multi-session
+sqlalchemy[asyncio]
+asyncpg
+passlib
+bcrypt
+alembic
+
+# Authentication
+python-jose[cryptography]
